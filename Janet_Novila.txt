@@ -1,4 +1,4 @@
 my first git lab
 work in progress
 my name is janet
-hi
+hello
