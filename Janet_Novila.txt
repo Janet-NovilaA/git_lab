@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 my first git lab
 work in progress
 my name is janet
 hello
+=======
+Add-Content Janet_Novila.txt "work in progress"
+work in progress
+>>>>>>> 28202bb (my first git lab)
